@@ -15,13 +15,13 @@ main:
     url: /talks/     
     
   - title: "Research"
-    url: /portfolio/
+    url: /research/
         
   - title: "Travel"
-    url: /year-archive/
+    url: /travel/
     
   - title: "Resume"
-    url: /cv/
+    url: /resume/
 
   - title: "Projects"
     url: /projects/
