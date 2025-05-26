@@ -239,15 +239,17 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _travel
   - scope:
       path: ""
-      type: teaching
+      type: posts
     values:
       layout: single
       author_profile: true
-      share: true
+      read_time: true
       comments: true
+      share: true
+      related: true
   # _publications
   - scope:
       path: ""
@@ -257,23 +259,26 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _research
   - scope:
       path: ""
-      type: portfolio
+      type: posts
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _projects
   - scope:
       path: ""
-      type: talks
+      type: posts
     values:
-      layout: talk
+      layout: single
       author_profile: true
+      read_time: true
+      comments: true
       share: true
+      related: true
 
 
 # Sass/SCSS
