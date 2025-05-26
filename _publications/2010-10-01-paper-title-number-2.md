@@ -6,7 +6,7 @@ permalink: /publication/UG-thesis
 excerpt: 'Undergraduate thesis, part of degree requirement for MIT NSE'
 date: 2025-05-13
 venue: 'DSpace@MIT'
-paperurl: # URL in ''
+paperurl: 'http://etmowery.github.io/files/Eleni Mowery UG Thesis (1).pdf'
 citation: 'Mowery, Eleni T. (2025). &quot;Evaluating the Use of Surface Source Banking to Accelerate Monte Carlo Transport Simulations of Far-Field Particle Fluxes.&quot; <i>MIT Undergraduate Thesis</i>.'
 ---
 
