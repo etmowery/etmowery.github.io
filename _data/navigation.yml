@@ -16,9 +16,6 @@ main:
         
   - title: "Travel"
     url: /travel/
-    
-  - title: "Resume"
-    url: /resume/
 
   - title: "Projects"
     url: /projects/
